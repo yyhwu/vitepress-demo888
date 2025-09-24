@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   // base 设置成你的github仓库名
-  base: '/vitepress-demo888/',
+  base: '/vitepress-demo88/',
   title: "My Awesome Project",
   description: "A VitePress Site",
   themeConfig: {
